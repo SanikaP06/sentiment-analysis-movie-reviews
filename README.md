@@ -23,3 +23,10 @@ An advanced NLP-powered web app to analyze movie reviews using multiple state-of
 
    ```bash
    git clone https://github.com/SanikaP06/sentiment-analysis-movie-reviews
+2. **Install the dependecies**
+ ```bash
+   pip install -r requirements.txt
+3. **Run the App**
+   ```bash
+   streamlit run app.py
+
