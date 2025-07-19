@@ -27,5 +27,8 @@ An advanced NLP-powered web app to analyze movie reviews using multiple state-of
 
    ```bash
    pip install -r requirements.txt
+3. **run the app**
+   ```bash
+   streamlit run app.py
 
 
